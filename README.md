@@ -1,4 +1,4 @@
-# HW6: APS Failure Prediction using Feature Selection and Ensemble Learning
+APS Failure Prediction using Feature Selection and Ensemble Learning
 
 This notebook addresses the classification of APS (Air Pressure System) failure data using imputation, feature engineering, and ensemble classifiers such as Random Forest and XGBoost.
 
